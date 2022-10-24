@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inirajan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development , photoshop and cyber security .
+- 🌱 I’m currently learning about web development and java script .
+- 💞️ I’m looking to collaborate on 
 
 
 <!---
