@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inirajan
-- 👀 I’m interested in Web technology , Photoshop and Cyber security .
-- 🌱 I’m currently learning about Web development and Java Script .
+- 👀 I’m interested in App Development , Photoshop and Cyber security .
+- 🌱 I’m currently learning about Flutter and Java  .
 - 💞️ I’m looking to collaborate on 
 
 
